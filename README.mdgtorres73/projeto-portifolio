@@ -1,0 +1,48 @@
+# Portfólio Pessoal - Guilherme Torres
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+Um portfólio de desenvolvedor front-end de página única (single-page) construído do zero, focado em um design moderno, responsivo e com efeitos de "glassmorphism".
+
+## 📖 Sobre o Projeto
+
+Este é o meu portfólio pessoal, um lugar centralizado para mostrar no que venho trabalhando e minhas habilidades como Desenvolvedor Front End.
+
+A ideia foi criar uma interface limpa, moderna e que fosse direto ao ponto, usando um design "dark" como padrão e efeitos de vidro fosco (`backdrop-filter`) para dar profundidade aos elementos da página.
+
+## ✨ Funcionalidades Principais
+
+* **Design Responsivo:** Totalmente adaptável para desktops, tablets e celulares.
+* **Navegação Suave:** Experiência de página única com `scroll-behavior: smooth`.
+* **Efeito Glassmorphism:** Uso de transparência e `backdrop-filter: blur()` em cards e na barra de navegação para um visual moderno.
+* **Formulário de Contato via WhatsApp:** Um formulário simples que coleta o nome e a mensagem e envia diretamente para o meu WhatsApp.
+* **CSS Moderno:** O projeto utiliza variáveis CSS (Custom Properties) para fácil manutenção de temas, além de Flexbox e Grid para layouts.
+* **Links Diretos:** Acesso rápido ao meu GitHub e LinkedIn diretamente do cabeçalho.
+
+## 🛠️ Tecnologias Utilizadas
+
+* **HTML5:** Para a estrutura semântica do site.
+* **CSS3:** Para toda a estilização, responsividade e efeitos visuais.
+* **JavaScript (Vanilla):** Para a funcionalidade do formulário de contato.
+
+## ☕ Como Rodar
+
+Não tem mistério. Por ser um projeto estático (só HTML, CSS e JS), você não precisa de um servidor:
+
+1.  Clone este repositório:
+    ```bash
+    git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
+    ```
+2.  Abra o arquivo `index.html` no seu navegador favorito.
+
+E pronto!
+
+## 👨‍💻 Autor
+
+Feito por **Guilherme Torres**.
+
+* [LinkedIn](https://www.linkedin.com/in/guilherme-torres-285272275/)
+* [GitHub](https://github.com/gtorres73)
+
